@@ -1,0 +1,11 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: #2d2d30;
+        background-color: #dce1e9;}
+
+a {font-size: 20px; text-decoration: none; color: #9c1b0a;}
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: #4f035e;}
